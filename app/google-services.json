@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "13046007829",
+    "project_id": "friendchart-a2efa",
+    "storage_bucket": "friendchart-a2efa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13046007829:android:ae117a697ca4d9d9faa61c",
+        "android_client_info": {
+          "package_name": "com.example.friendchart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13046007829-5u2m2np0pnk0sl1m7pus0mb8t2mvbkcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnXOtk75y8E2W90LM5vfp3MZlx75rVKqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13046007829-5u2m2np0pnk0sl1m7pus0mb8t2mvbkcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
